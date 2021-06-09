@@ -13,3 +13,8 @@ def mult(a,b):
 
 print("this is mult", mult(5,5))
 
+def div(a,b):
+    return a//b
+
+print ("this is divison", div(10,5)
+
